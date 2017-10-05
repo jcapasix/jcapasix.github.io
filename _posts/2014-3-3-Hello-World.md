@@ -25,4 +25,4 @@ Ejemplo en 3, 2, 1:
 7. hago pull request a master y listo
 
 
-[_config.yml]({{ site.baseurl }}/images/j_plus_d.png)
+![_config.yml]({{ site.baseurl }}/images/j_plus_d.png)
