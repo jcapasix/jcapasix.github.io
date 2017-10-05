@@ -10,7 +10,7 @@ Cada vez las cosas se hacen de forma casi automática, no es algo de lo que debe
 
 Recuerdo que cuando estaba en la universidad configurar un blog en github era una tarea titánica, hoy solo basta con hacer lo siguiente:
 
-1. Fork de https://github.com/barryclark/jekyll-now
+1. Fork de [Jekyll Now repository](https://github.com/barryclark/jekyll-now)
 2. Cambiar el nombre del repositorio **jekyll-now** por **username_github.github.io**
 3. Crear una cuenta en **https://disqus.com/**
 4. En **_config.yml** cambiar la variable disqus: por disqus: **nombre_site_disqus**
