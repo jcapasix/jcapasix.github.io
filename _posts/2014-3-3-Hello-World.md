@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll Blog + DISQUS
+title: jekyll + DISQUS
 categories: Github
 ---
 
