@@ -19,7 +19,6 @@ Ejemplo en 3, 2, 1:
 1. Fork de https://github.com/barryclark/jekyll-now a https://github.com/jcapasix
 2. cambio el nombre de jekyll-now por jcapasix.github.io
 3. bajo el repositorio de nombre jcapasix.github.io a mi máquina
-
 4. creo una cuenta en https://disqus.com/ 
 5. creo un nuevo site en disqus de la forma jcapasix.disqus.com
 6. modifico la variable disqus: a disqus: jcapasix
