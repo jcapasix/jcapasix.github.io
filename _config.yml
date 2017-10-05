@@ -6,7 +6,7 @@
 name: Jordan Capa
 
 # Short bio or description (displayed in the header)
-description: iOS Developer
+description: Mobile Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://lh3.googleusercontent.com/-LmyrOkenzKI/WZsHE7NFqJI/AAAAAAAAAAs/xFbawLOZNUw5iZ2DsC8sL3wl3o1x9NYLACEwYBhgL/w280-h280-p/Screenshot%2Bat%2Bmay.%2B29%2B15-49-35%2B%25282%2529.png
@@ -34,7 +34,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: jcapasix
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
