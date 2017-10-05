@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jekyll Blog + DISQUS
+categories: Github
 ---
 
 Cada vez las cosas se hacen de forma casi automática, no es algo de lo que deberíamos sorprendernos, a este paso un día los programadores seremos programados. 
@@ -25,6 +26,4 @@ Ejemplo en 3, 2, 1:
 7. hago pull request a master y listo
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+[_config.yml]({{ site.baseurl }}/images/j_plus_d.png)
